@@ -1,5 +1,5 @@
 # <img alt="docker" width = "100px" src="./images/docker.png" > docker-toDo-list <img alt="docker" width = "100px" src="./images/docker.png" >
-Projeto para testar docker.
+Projeto para testar docker e avaliar o aprendizado após o primeiro bloco do modulo de back-end da Trybe.
 
 Acessando a pasta docker/docker-comands você verá em cada arquivo numerado o comando feito para realizar os seguintes desafios: 
 
