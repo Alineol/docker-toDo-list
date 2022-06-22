@@ -1,4 +1,4 @@
-# docker-toDo-list
+# <img alt="docker" width = "100px" src="./images/docker.png" > docker-toDo-list <img alt="docker" width = "100px" src="./images/docker.png" >
 Projeto para testar docker.
 
 Acessando a pasta docker/dockerComands você verá em cada arquivo numerado o comando feito para realizar os seguintes desafios: 
